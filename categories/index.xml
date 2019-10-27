@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on 糖尿病教室</title>
+    <link>https://dm.hi29.net/categories/</link>
+    <description>Recent content in Categories on 糖尿病教室</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Wed, 12 Jun 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://dm.hi29.net/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>糖尿病保健食品</title>
+      <link>https://dm.hi29.net/categories/%E7%B3%96%E5%B0%BF%E7%97%85%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81/</link>
+      <pubDate>Wed, 12 Jun 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dm.hi29.net/categories/%E7%B3%96%E5%B0%BF%E7%97%85%E4%BF%9D%E5%81%A5%E9%A3%9F%E5%93%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>糖尿病併發症</title>
+      <link>https://dm.hi29.net/categories/%E7%B3%96%E5%B0%BF%E7%97%85%E4%BD%B5%E7%99%BC%E7%97%87/</link>
+      <pubDate>Tue, 14 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://dm.hi29.net/categories/%E7%B3%96%E5%B0%BF%E7%97%85%E4%BD%B5%E7%99%BC%E7%97%87/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>藥物新知</title>
+      <link>https://dm.hi29.net/categories/%E8%97%A5%E7%89%A9%E6%96%B0%E7%9F%A5/</link>
+      <pubDate>Thu, 27 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://dm.hi29.net/categories/%E8%97%A5%E7%89%A9%E6%96%B0%E7%9F%A5/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
