@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "print.css",
-	"sourceRoot": "/Users/arguskao/Hugo/github/hi29.net/dm29",
+	"sourceRoot": "/Users/user/Dropbox/Hugo/github/hi29.net/dm29",
 	"sources": [
 		"themes/hyde-hyde/assets/scss/print.scss",
 		"themes/hyde-hyde/assets/scss/hyde-hyde/_variables.scss",
